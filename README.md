@@ -12,3 +12,8 @@ The aritechture that is adopted within this notebook is taken from the cycleGAN 
 Technical specifications notebook was created on:
 
 
+
+
+Enjoy.
+
+any comments/corrections please email *j.stelling2@ncl.ac.uk*
