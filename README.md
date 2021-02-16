@@ -9,11 +9,18 @@ Downloads:
 
 The aritechture that is adopted within this notebook is taken from the cycleGAN [paper](https://arxiv.org/pdf/1703.10593.pdf) proposed by Zhu et. al. CycleGAN has been shown to have visually impressive results without the need for paired training examples, which are often expensive to obtain. It builds on the architecture of Generative Adversarial Networks (GAN) by adding a cycle consistancy loss to preserve the input mapping. The project website is available to explore [here](https://junyanz.github.io/CycleGAN/).    
 
+
+
 Technical specifications notebook was created on:
 
+-- *Environment:*  **MS Azure**
+
+-- *Virtual Machine Size:*  **6 Cores, 56 GB RAM, 380 GB DISK**
+
+-- *Processing Unit:*  **1 X NVIDIA Tesla K80**
 
 
 
 Enjoy.
 
-any comments/corrections please email *j.stelling2@ncl.ac.uk*
+Any comments/corrections please email *j.stelling2@ncl.ac.uk*
