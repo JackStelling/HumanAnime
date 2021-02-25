@@ -13,7 +13,7 @@ The aritechture that is adopted within this notebook is taken from the cycleGAN 
 
 Technical specifications notebook was created on:
 
--- *Environment:*  **MS Azure** **Tensorflow 2.3** **Python 3.6**
+-- *Environment:*  **MS Azure**, **Tensorflow 2.3**, **Python 3.6**
 
 -- *Virtual Machine Size:*  **6 Cores, 56 GB RAM, 380 GB DISK**
 
